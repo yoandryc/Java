@@ -2,7 +2,7 @@ package controlFlujo;
 
 import java.util.Scanner;
 
-public class ejercicios {
+public class login {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 /*
@@ -19,16 +19,8 @@ public class ejercicios {
 *Usuario: admin
 *Contraseña: 1234
 
- !EJERCICIO2
-?Crea un programa en Java que simule un pequeño menú de operaciones matemáticas.
-*Debe permitir al usuario elegir una operación entre:
-*Suma
-*Resta
-*Multiplicación
-*División
-?Luego debe pedir dos números y mostrar el resultado de la operación.
-*/
-//!EJERCICIO1
+ */
+//EJERCICIO1
         String usuario = "admin", contrasena = "1234";
         System.out.println("Iniciar seccion");
         System.out.println("Usuario ");
@@ -43,15 +35,7 @@ public class ejercicios {
         } else {
             System.out.println("Usuario o contraseña incorrecta, intenta de nuevo");
         }
-
-
-
-
-
-
-
-
-
+        sc.close();
     }//cierre de main
 }// cierre de clase
 
