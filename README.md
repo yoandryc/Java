@@ -1,6 +1,6 @@
-# 🧠 Aprendiendo Java con Generation Bootcamp
+# 🧠 Aprendiendo Java 
 
-Este repositorio contiene los ejercicios, ejemplos y proyectos desarrollados durante el Bootcamp de **Generation México**, enfocado en el aprendizaje del lenguaje de programación **Java**.
+Este repositorio contiene los ejercicios, ejemplos y proyectos desarrollados durante el Bootcamp de **Generation México*, enfocado en el aprendizaje del lenguaje de programación **Java**.
 
 ---
 
